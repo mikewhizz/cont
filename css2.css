@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+        
+}
+h1{
+    font-family: cursive;
+    font-size: 48px;
+    text-align: center;
+}
+p{
+    font-family: monospace;
+    font-style: italic;
+}
+.h2{
+    font-family: helvetica;
+}
